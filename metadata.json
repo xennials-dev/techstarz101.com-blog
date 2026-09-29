@@ -1,0 +1,6 @@
+{
+  "name": "xennials.tech Blog Engine & Scraper Studio",
+  "description": "SEO-optimized blog scraper, automated Schema.org generator, real-time SEO score gauge, and static folder populator for techstarz101.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
